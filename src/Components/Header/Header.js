@@ -23,7 +23,7 @@ const Header = ({ loggedin }) => {
                             color="primary"
                             sx={{ ml: 2 }}
                         >
-                            Log Out
+                            Log Out user
                         </Button>
                     </Link>
                 </Box>
