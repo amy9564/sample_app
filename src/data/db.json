@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "654c47c0-2adb-47a3-b77e-5a33f8eed851",
+      "name": "Testing User",
+      "username": "Test",
+      "email": "testinguser@gmail.com",
+      "cnumber": "1234567890",
+      "password": "Amit@9564",
+      "profileimage": "blob:http://localhost:3000/854ec553-0ce8-460c-88fd-204886ae6c72"
+    },
+    {
+      "id": "af483b0b-4da7-4190-86a9-d351a6d139ac",
+      "name": "Amit kumar",
+      "username": "amitsachan9564@gmail.com",
+      "email": "amitsachan9564@gmail.com",
+      "cnumber": "0852778819",
+      "password": "Amit@9564",
+      "profileimage": ""
+    },
+    {
+      "id": "2e5deca3-9417-4161-a865-7af1d400b98e",
+      "name": "qwerty ui",
+      "username": "amio",
+      "email": "test@gmail.com",
+      "cnumber": "",
+      "password": "Amit@9564",
+      "profileimage": "blob:http://localhost:3000/8a68bf70-a00e-4903-bd41-c4f2c413b0c9"
+    },
+    {
+      "id": "a50a5c7b-88e5-4ece-bf4a-734c788fdb85",
+      "name": "Sampe user",
+      "username": "a",
+      "email": "sample@gmail.com",
+      "cnumber": "",
+      "password": "Amit@9564",
+      "profileimage": "blob:http://localhost:3000/1929dbce-0389-4202-97eb-d543622d4479"
+    }
+  ]
+}
